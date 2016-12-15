@@ -129,3 +129,7 @@ v1.0:
     * http://code.google.com/p/google-code-prettify/
   ExplorerCanvas
     * http://code.google.com/p/explorercanvas/
+    
+    测试分支合并
+    * http://code.google.com/p/explorercanvas/分枝
+    * http://code.google.com/p/explorercanvas/
